@@ -127,7 +127,9 @@ align-items: start;
 
 .button-center button {
 
-  padding: 20px 75px;
+  /* padding: 20px 75px; */
+  height: 60px;
+  width: 320px;
   font-size: 22px;
   background-color: #85041A;
   color: white;
@@ -316,7 +318,8 @@ position: relative;
   }
 
   .button-center button {
-    padding: 10px 25px;
+    height: 32px;
+    width: 180px;
     font-size: 14px;
     border-radius: 16px;
   }
@@ -384,8 +387,9 @@ position: relative;
   }
 
   .button-center button {
-    padding: 12px 32px;
-    font-size: 16px;
+    height: 40px;
+    width: 180px;
+    font-size: 14px;
   }
 
   .column img {
@@ -457,7 +461,8 @@ position: relative;
   }
 
   .button-center button {
-    padding: 14px 50px;
+    height: 48px;
+    width: 240px;
     font-size: 16px;
   }
 
